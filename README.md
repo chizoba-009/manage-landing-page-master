@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site URL](https://manage-landing-page-by-me.nrtligy.app)
+- Live Site URL: [Live site](https://manage-landing-page-by-me.netlify.app/)
 
 ## My process
 
